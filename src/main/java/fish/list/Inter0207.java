@@ -1,4 +1,4 @@
-package fish;
+package fish.list;
 
 // 0207 链表相交
 

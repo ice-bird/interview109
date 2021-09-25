@@ -1,4 +1,4 @@
-package fish;
+package fish.bit;
 // 面试宝典：0501 插入
 // 给定两个整型数字 N 与 M，以及表示比特位置的 i 与 j（i <= j，且从 0 位开始计算）。
 

@@ -1,4 +1,4 @@
-package fish;
+package fish.list;
 // 面试题 02.01. 移除重复节点
 
 import java.util.HashSet;
